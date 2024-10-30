@@ -1,0 +1,2 @@
+SELECT DISTINCT Td.ContractNumber
+FROM Td;
